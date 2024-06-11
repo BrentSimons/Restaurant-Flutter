@@ -31,5 +31,5 @@ The Wikitude integration offers an immersive AR experience for users. It allows 
 
 ## Contributors
 
-- Brent Simons (GitHub: [brentsimons](https://github.com/brentsimons))
-- Yarin van Raam (GitHub: [yarinraam](https://github.com/yarinraam))
+- Brent Simons (GitHub: [brentsimons](https://github.com/BrentSimons))
+- Yarin van Raam (GitHub: [yarinraam](https://github.com/yarin18))
