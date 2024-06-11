@@ -1,6 +1,6 @@
 # Restaurant Takeout App
 
-**Note:** This repo contains a team project, the parts I worked on are the: Review section of the flutter app, the entire AR app.
+**Note:** This repo contains a team project, the parts I (Brent Simons) worked on are the: Review section of the flutter app, the entire AR app.
 
 This repository contains the code for our restaurant takeout application project, created as part of the Mobile Development & AR course. The project involves the development of two applications: one built with Flutter and the other with Wikitude.
 
