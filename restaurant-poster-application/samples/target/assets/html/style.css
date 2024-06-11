@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hotpink;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 4.5em;
+}
+
+p {
+    font-size: 2.2em;
+}
+
+#Price {
+    color: #009933;
+    font-weight: bold;
+}
+
+#Description {
+    margin-top: 10px;
+}

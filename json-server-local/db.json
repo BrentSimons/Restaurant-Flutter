@@ -1,0 +1,180 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "dishName": "Geelse Hamburger",
+      "description": "Juicy beef patty with lettuce, tomato, and cheese, served on a toasted bun.",
+      "price": 9.99,
+      "ingredients": [
+        "Beef Patty",
+        "Lettuce",
+        "Tomato",
+        "Cheese",
+        "Bun"
+      ],
+      "image": "assets/hamburger.jpg"
+    },
+    {
+      "id": 2,
+      "dishName": "Geelse Pizza",
+      "description": "An all-time favorite with a variety of toppings on a crispy crust.",
+      "price": 12.99,
+      "ingredients": [
+        "Pizza Dough",
+        "Tomato Sauce",
+        "Cheese",
+        "Toppings"
+      ],
+      "image": "assets/pizza.jpg"
+    },
+    {
+      "id": 3,
+      "dishName": "Geelse Croissant",
+      "description": "A buttery, flaky pastry that pairs perfectly with coffee or tea.",
+      "price": 3.99,
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Yeast"
+      ],
+      "image": "assets/croissant.jpg"
+    },
+    {
+      "id": 4,
+      "dishName": "Grilled Salmon",
+      "description": "Fresh salmon fillet seasoned and grilled to perfection, served with lemon butter sauce.",
+      "price": 18.99,
+      "ingredients": [
+        "Salmon Fillet",
+        "Lemon Butter Sauce",
+        "Seasoning",
+        "Fresh Vegetables"
+      ],
+      "image": "assets/grilledsalmon.jpg"
+    },
+    {
+      "id": 5,
+      "dishName": "Chicken Alfredo Pasta",
+      "description": "Tender chicken breast and fettuccine pasta tossed in a creamy Alfredo sauce.",
+      "price": 16.99,
+      "ingredients": [
+        "Chicken Breast",
+        "Fettuccine Pasta",
+        "Alfredo Sauce",
+        "Parmesan Cheese"
+      ],
+      "image": "assets/chickenpastaalfredo.jpg"
+    },
+    {
+      "id": 6,
+      "dishName": "Caesar Salad",
+      "description": "Crisp romaine lettuce, croutons, and Parmesan cheese, dressed with Caesar dressing.",
+      "price": 8.99,
+      "ingredients": [
+        "Romaine Lettuce",
+        "Croutons",
+        "Parmesan Cheese",
+        "Caesar Dressing"
+      ],
+      "image": "assets/caesarsalad.jpg"
+    },
+    {
+      "id": 7,
+      "dishName": "Beef Tacos",
+      "description": "Soft corn tortillas filled with seasoned ground beef, lettuce, tomatoes, and salsa.",
+      "price": 10.99,
+      "ingredients": [
+        "Corn Tortillas",
+        "Seasoned Ground Beef",
+        "Lettuce",
+        "Tomatoes",
+        "Salsa"
+      ],
+      "image": "assets/beeftacos.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "rating": 5,
+      "description": "The food was excellent, and the service was top-notch."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "rating": 4,
+      "description": "The food was good, but the delivery took longer than expected."
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "rating": 5,
+      "description": "Absolutely amazing! The best takeaway experience I've ever had."
+    },
+    {
+      "id": 4,
+      "name": "Emily Williams",
+      "rating": 3,
+      "description": "The food quality was decent, but the packaging was not satisfactory."
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "orderDishIds": [
+        1,
+        1,
+        2
+      ],
+      "pickupTime": "2023-10-30 17:59",
+      "email": "jake@gmail.com",
+      "fullName": "Jake Johnson"
+    },
+    {
+      "id": 2,
+      "orderDishIds": [
+        2,
+        4
+      ],
+      "pickupTime": "2023-10-30T20:44:24.308960",
+      "email": "yaringmail@gmail.com",
+      "fullName": "Yarin"
+    },
+    {
+      "id": 3,
+      "orderDishIds": [
+        2,
+        5
+      ],
+      "pickupTime": "2023-11-02T12:06:10.807897",
+      "email": "yarin@gmail.com",
+      "fullName": "Yarin"
+    },
+    {
+      "id": 6,
+      "orderDishIds": [
+        2,
+        4,
+        4
+      ],
+      "pickupTime": "2023-11-02T12:20:35.919415",
+      "email": "brent@gmail.com",
+      "fullName": "brent"
+    }
+  ],
+  "scanningCompetition": [
+    {
+      "name": "Poster opened at 2023-11-05",
+      "id": "1699194028586"
+    },
+    {
+      "name": "Poster opened at 2023-11-05",
+      "id": "1699194838304"
+    },
+    {
+      "name": "Poster opened at 2023-11-05",
+      "id": "1699194937332"
+    }
+  ]
+}
